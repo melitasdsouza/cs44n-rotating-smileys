@@ -1,4 +1,5 @@
 # Rotating Smiley Grid
+![Rotating Smiley Grid Preview](preview.gif)
 
 Generative animation created for **CS 44N: Great Ideas in Graphics** at Stanford.
 
