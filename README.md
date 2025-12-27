@@ -6,7 +6,7 @@ Generative animation created for **CS 44N: Great Ideas in Graphics** at Stanford
 A grid of smiley faces rotates continuously, with alternating rotation directions and hue-shifted colors driven by frame count.
 
 ## Live Demo
-- OpenProcessing: oppr.org/s/p772WnTp
+- https://melitasdsouza.github.io/cs44n-rotating-smileys/
 
 ## Features
 - p5.js animation
